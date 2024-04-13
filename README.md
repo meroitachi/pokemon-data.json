@@ -1,6 +1,6 @@
 # Pokemon.json
 
-### The data can be queried using [pokemon-api](https://github.com/Purukitto/pokemon-api)
+### The data can be queried using [pokemon-api](https://github.com/P/pokemon-api)
 
 [![API](https://img.shields.io/badge/API-Active-green)](https://github.com/Purukitto/pokemon-api)
 ![Current Generation](https://img.shields.io/badge/Generation-Updating_to_VIII-red)
@@ -44,7 +44,7 @@ All Pokemon types with effectiveness data
 
 ## Contributors
 <a href="https://github.com/meroitachi/pokemon-data.json/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Purukitto/pokemon-data.json" />
+  <img src="https://contributors-img.web.app/image?repo=meroitachi/pokemon-data.json" />
 </a>
 
 ## Copyright Notice
