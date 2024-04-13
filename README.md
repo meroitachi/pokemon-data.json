@@ -43,7 +43,7 @@ All Pokemon types with effectiveness data
 <hr>
 
 ## Contributors
-<a href="https://github.com/Purukitto/pokemon-data.json/graphs/contributors">
+<a href="https://github.com/meroitachi/pokemon-data.json/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Purukitto/pokemon-data.json" />
 </a>
 
