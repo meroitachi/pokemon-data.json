@@ -41,12 +41,12 @@ JSON file with non-derviable data about all Pokemon upto Gen7
 All Pokemon types with effectiveness data
 
 <hr>
-
+<!--
 ## Contributors
 <a href="https://github.com/meroitachi/pokemon-data.json/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=meroitachi/pokemon-data.json" />
 </a>
-
+-->
 ## Copyright Notice
 **Please note everything in repository are copyrighted by the Pokémon Company and its affiliates.**
 
